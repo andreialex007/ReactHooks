@@ -5,11 +5,12 @@ import UseEffect from "./UseEffect";
 import UseMemo from "./UseMemo";
 import UseRef from "./UseRef";
 import UseContext from "./UseContext";
+import UseCallback from "./UseCallback";
 
 function App() {
 
     return (
-        <UseContext/>
+        <UseCallback/>
     );
 }
 
